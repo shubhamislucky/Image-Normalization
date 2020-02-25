@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/anaconda3/envs/mypy/bin/python",
+    "python.linting.enabled": false
+}
